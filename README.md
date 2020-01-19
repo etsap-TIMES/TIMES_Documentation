@@ -1,6 +1,6 @@
 ## TIMES Documentation
 
-This is the full documentation of TIMES.
+This is the full documentation of TIMES, released in 2016.
 
 More documentation is available on ETSAP website https://iea-etsap.org/index.php/documentation
 
