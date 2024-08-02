@@ -19,4 +19,4 @@
 *.exe filter=lfs merge=lfs -text -diff 
 
 # Documents
-*.pdf filter=lfs merge=lfs -text -diff
+*.pdf binary
